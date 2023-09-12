@@ -162,7 +162,7 @@ Later in this course, you'll learn what all that mess means, but for now it is e
 
 ### Task 1.1: Rewrite this using `while`
 
-- [ ] You've puzzled through how Java `for` and `if` statements work; now rewrite this
+- [X] You've puzzled through how Java `for` and `if` statements work; now rewrite this
 to use a `while` loop instead of a `for` loop.
 
 ## How to test this code
@@ -330,7 +330,7 @@ commit, push steps you learned in lab this week).
 
 ## Task 4: Multiples of 3 and 5
 
-- [ ] Right-click on `src` and select `New —> Java Class`. Name it `Multiples`.
+- [X] Right-click on `src` and select `New —> Java Class`. Name it `Multiples`.
 
 We're looking for non-negative multiples of 3 or 5. The first four are 3, 5, 6, and 9, so there are
 four below 10. How many are below 1000?
